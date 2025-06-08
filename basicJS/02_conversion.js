@@ -13,6 +13,8 @@ let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
+
+//Stack and Heap
 let myName = "Sharada"
 let anotherName = myName
 anotherName = "Chaudhary"
